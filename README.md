@@ -1,5 +1,11 @@
 # Neural Computation Models
 
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://i.postimg.cc/FsqTSYmF/An-LIF-neuron-a-a-schematic-connection-between-three-pre-neurons-to-one-post-neuron.jpg" width="800">
+  </a>
+</p>
+
 This project implements three neuron models: **LIF (Leaky Integrate-and-Fire)**, **ELIF (Exponential Leaky Integrate-and-Fire)**, and **AELIF (Adaptive Exponential Leaky Integrate-and-Fire)**. These models simulate neuron behavior and analyze their responses to different input currents using the Forward Euler method.
 
 ## Table of Contents
