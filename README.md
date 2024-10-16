@@ -49,7 +49,7 @@ For each type of input, we simulate the neuron's membrane potential changes and 
    jupyter notebook
 
 ## Results
-Results of the simulations and detailed analysis of the results, refer to the [report](./Report-p1.pdf).
+Results of the simulations and detailed analysis of the results, refer to the [report](./Report/Report.pdf).
 
 ## References
 - [PymoNNtorch Framework](https://github.com/cnrl/PymoNNtorch)
