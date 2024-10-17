@@ -41,7 +41,7 @@ For each type of input, we simulate the neuron's membrane potential changes and 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mzamani18/Neuron-Models.git
+   git clone https://github.com/MohaZamani/Neuron-Models.git
 2. Install necessary dependencies:
    ```bash
    pip3 install -r requirements.txt
